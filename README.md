@@ -1,0 +1,2 @@
+# SalaryInformationManagementSystem
+ 基于SpringBoot Vue工资信息管理系统
